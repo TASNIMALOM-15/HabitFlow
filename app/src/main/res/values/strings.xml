@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HabitFlow</string>
+    <string name="widget_desc">Today\'s habits and progress</string>
+</resources>
